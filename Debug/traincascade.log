@@ -1,0 +1,17 @@
+﻿Build started 5/9/2013 3:00:40 AM.
+     1>Project "C:\opencv\apps\traincascade\traincascade.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\traincascade.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         traincascade.vcxproj -> C:\opencv\apps\traincascade\Debug\traincascade.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\traincascade.unsuccessfulbuild".
+         Touching "Debug\traincascade.lastbuildstate".
+     1>Done Building Project "C:\opencv\apps\traincascade\traincascade.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
